@@ -16,8 +16,6 @@
 
 <p align="left">My programming journey began when I built my first computer game in 2001. Since then, I have come to view programming as the ultimate creative tool and have invested many thousands of hours into countless projects.<br>I'm motivated by my curiosity and a drive to pursue innovative applications.<br><br>In 2016, I began focusing on AI, and I've been particularly focused on the applications of LLMs since 2020.<br><br>- 🔭 I’m currently seeking a dedicated developer role.<br>- ⚡ When I'm not building something, I'm usually thinking about building something.</p>
 <br><br>
-**Quick Note regarding the state of my Github Profile:<br>If you've read my resume, you might be wondering why my profile is so barren. This is mainly because I've never had any motivation to showcase my work - most of it was built only for myself.<br>Also, looking at old code sometimes leaves me thinking "🤮 No one can ever know about this...". 😅 <br>In my experience, future-me will feel that same way about what I JUST wrote, so I've kept repos private by default.
-<br> That said, I've been working to change my perspective on this and embrace the benefits of "opening up." So, I will be giving my profile a makeover, along with the rest of my online presence.
 
 
 ###
