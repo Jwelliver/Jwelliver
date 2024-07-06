@@ -15,8 +15,7 @@
 ###
 
 <p align="left">My programming journey began when I built my first computer game in 2001. Since then, I have come to view programming as the ultimate creative tool and have invested many thousands of hours into countless projects.<br>I'm motivated by my curiosity and a drive to pursue innovative applications.<br><br>In 2016, I began focusing on AI, and I've been particularly focused on the applications of LLMs since 2020.<br><br>- 🔭 I’m currently seeking a dedicated developer role.<br>- ⚡ When I'm not building something, I'm usually thinking about building something.</p>
-<br><br>
-
+<br>
 
 ###
 
